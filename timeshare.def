@@ -1,0 +1,3 @@
+LIBRARY     Johammond
+DESCRIPTION ''
+EXPORTS     main=VSTPluginMain
